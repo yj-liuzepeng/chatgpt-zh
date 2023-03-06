@@ -4,7 +4,7 @@
 
 对 [diu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 进行功能上的增强。
 
-预览: [https://vercel-chatgpt-github.vercel.app](https://vercel-chatgpt-github.vercel.app)
+预览: [https://chatgpt-kz4xm0alx-yj-liuzepeng.vercel.app](https://chatgpt-kz4xm0alx-yj-liuzepeng.vercel.app)
 
 ## 部署一个你自己的（免费）
 
