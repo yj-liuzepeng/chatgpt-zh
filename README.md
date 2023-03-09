@@ -2,13 +2,13 @@
 
 对 [diu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 进行功能上的增强。
 
-预览: [https://chatgpt-zh-demo.vercel.app](https://chatgpt-zh-demo.vercel.app)
+预览: [https://www.chatgpt-zh.cn](https://www.chatgpt-zh.cn)
 
 ## 部署一个你自己的（免费）
 
 > 本项目主要面向中文用户，所以用中文，原版是英文的。
 
-如果你只需要部署一个你自己用的网站，而不需要定制，那么你完全不需要在本地跑起来，你可以直接点击下面的按钮，然后按照提示操作即可。 Vercel 域名已经被墙，所以你需要绑定自己的域名才行。
+如果你只需要部署一个你自己用的网站，而不需要定制，那么你完全不需要在本地跑起来，你可以直接点击下面的按钮，然后按照提示操作即可。 Vercel 域名已经被墙，所以你需要绑定自己的域名才行（自行申请域名如：chatgpt-zh.cn）。
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ourongxing/chatgpt-vercel)
 
