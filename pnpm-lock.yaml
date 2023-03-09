@@ -1,4 +1,4 @@
-lockfileVersion: 5.4
+lockfileVersion: 5.3
 
 specifiers:
   '@astrojs/solid-js': ^2.0.2
@@ -1139,7 +1139,7 @@ packages:
       esbuild: 0.14.47
       exit-hook: 2.2.1
       node-fetch: 2.6.7
-      ts-node: 10.9.1_jh3j7gf3qptnaxtpzk3sx5vjku
+      ts-node: 10.9.1_49f69f98bb83e6d05e6fcab72bf6a955
       typescript: 4.3.4
     transitivePeerDependencies:
       - '@swc/core'
@@ -3917,7 +3917,7 @@ packages:
       code-block-writer: 10.1.1
     dev: true
 
-  /ts-node/10.9.1_jh3j7gf3qptnaxtpzk3sx5vjku:
+  /ts-node/10.9.1_49f69f98bb83e6d05e6fcab72bf6a955:
     resolution: {integrity: sha512-NtVysVPkxxrwFGUUxGYhfux8k78pQB3JqYBXlLRZgdGUqTO5wU/UyHop5p70iEbGhB7q5KmiZiU0Y3KlJrScEw==}
     hasBin: true
     peerDependencies:

@@ -1,7 +1,5 @@
 # ChatGPT-API Vercel
 
-![](assets/screenshot.png)
-
 对 [diu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 进行功能上的增强。
 
 预览: [https://chatgpt-kz4xm0alx-yj-liuzepeng.vercel.app](https://chatgpt-kz4xm0alx-yj-liuzepeng.vercel.app)
@@ -23,7 +21,7 @@
     // 你可以填写多个，用 | 分割，随机调用
     OPENAI_API_KEY=sk-xxx|sk-yyy
     ```
-2. 之前版本我设置了每次刷新重置 `开启连续对话` 选项，因为一般用不上这个，比较费钱。当前版本我已经移除了这个特性，如果你需要给更多人用，建议打开，只要将 [这行代码](https://github.com/ourongxing/chatgpt-vercel/blob/main/src/components/Generator.tsx#LL53C10-L53C39) 取消注释即可。
+2. 之前版本我设置了每次刷新重置 `开启连续对话` 选项，因为一般用不上这个，比较费钱。当前版本我已经移除了这个特性，如果你需要给更多人用，建议打开，只要将 [这行代码](https://github.com/yj-liuzepeng/chatgpt-zh/blob/main/src/components/Generator.tsx#L53) 取消注释即可。
 3. `git commit & push` 即可重新部署，vscode 上点几下就可以了。
 
 ## API
